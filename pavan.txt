@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 temp file it is
-this is my first file
-
+=======
+h this is my first file
+>>>>>>> parent of c694a46... Revert "file created"
