@@ -1,2 +1,3 @@
 this is first statement -file created
+file edited -middle line addde as third attempt
 file edited - second line added
